@@ -11,9 +11,9 @@ title                    : "Boyang Yan's Personal Blog"
 title_separator          : "-"
 name                     : &name "Boyang Yan"
 description              : &description "This is Boyang Yan's Personal Blog"
-url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
-repository               : "mmistakes/minimal-mistakes"
+url                      : http://yanboyang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "yanboyang713/myBlog"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
