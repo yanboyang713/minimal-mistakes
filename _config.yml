@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minimal Mistakes"
+title                    : "Boyang Yan's Personal Blog"
 title_separator          : "-"
-name                     : &name "Michael Rose"
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+name                     : &name "Boyang Yan"
+description              : &description "This is Boyang Yan's Personal Blog"
 url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
@@ -81,9 +81,9 @@ analytics:
 author:
   name             : *name
   avatar           : "michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
-  email            :
+  bio              : ""
+  location         : "Wollongong, Australia"
+  email            : "by932@uowmail.edu.au"
   uri              : "https://mademistakes.com"
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : *facebook
   foursquare       :
-  github           : "mmistakes"
+  github           : "yanboyang713"
   google_plus      :
   keybase          :
   instagram        : "mmistakes"
